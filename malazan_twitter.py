@@ -3,11 +3,11 @@ import tweepy
 import random
 import csv
 
-api_key = "uRB40NTUh1OoP258mjr8SUMXn"
-api_secret = "WdDWq2FegV2QZrs4TOXtrkry4lvifcPxNsCtprRWic2xn5sGuI"
+api_key = #redacted
+api_secret = #redacted
 
-access_token = "1153109923154333697-DJ7cMaKvLgeyUR1n7sWYTIw3eE4VWN"
-access_token_secret = "28TsSM1cYAOObZUsRC73blmh3WYuQR5lZ4f8TJW0QsKWr"
+access_token = #redacted
+access_token_secret = #redacted
 
 print("my twitter bot")
 
