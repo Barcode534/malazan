@@ -1,4 +1,3 @@
-import json
 import tweepy
 import random
 import csv
